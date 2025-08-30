@@ -36,7 +36,7 @@ All **motors, lights, and music** can now be controlled wirelessly through an **
 ---
 
 ## 📸 Demonstration
-![Raw Demo Video](assets/demo%20raw.mp4)
+![Raw](assets/demo%20raw.mp4)
 
 ---
 
