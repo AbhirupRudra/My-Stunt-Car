@@ -35,8 +35,8 @@ All **motors, lights, and music** can now be controlled wirelessly through an **
 
 ---
 
-## 📸 Demonstration (Optional)  
-*(Add images or a short demo video link here showing the car in action.)*  
+## 📸 Demonstration
+![Raw Demo Video](assets/demo%20raw.mp4)
 
 ---
 
